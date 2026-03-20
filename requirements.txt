@@ -1,13 +1,9 @@
-onnxruntime-directml
-onnx
-onnxconverter-common
-numpy
-Pillow
+onnxruntime-directml>=1.22.0,<2.0.0
+onnx>=1.20.0,<2.0.0
+onnxconverter-common>=1.16.0,<2.0.0
+numpy>=2.2.6,<3.0.0
+Pillow>=12.0.0,<13.0.0
 
 # requirements.txt
-# Tested with Python 3.12.4
-onnxruntime-directml>=1.22.0,<2.0
-onnx>=1.20.0,<2.0
-onnxconverter-common>=1.16.0,<2.0
-numpy>=1.25.0,<2.0
-Pillow>=12.0.0,<13.0
+# Full environment tested with Python 3.12.4
+# Hardware: Intel Iris Xe Graphics (DirectML)
