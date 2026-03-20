@@ -1,8 +1,24 @@
 __pycache__/
 *.py[cod]
+*$py.class
+
+# Environments
 venv/
 .venv/
+
+# Distribution / Build
 build/
 dist/
+*.spec
+
+# Model files
 *.onnx
 models/*.onnx
+
+# Output & Temporary
+output/
+*.tmp
+
+# OS junk
+Thumbs.db
+desktop.ini
