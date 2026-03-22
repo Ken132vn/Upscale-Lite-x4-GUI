@@ -25,7 +25,7 @@ import onnxruntime
 # Application constants
 # ============================================================
 APP_TITLE = "UpscaleLite-FP16"
-APP_VERSION = "2.0"
+APP_VERSION = "1.2.1"
 MODEL_SCALE = 4
 MIN_TILE = 64
 MAX_TILE = 512
