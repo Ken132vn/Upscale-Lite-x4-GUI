@@ -11,7 +11,6 @@ UpscaleLite-FP16 is a lightweight, portable solution designed to provide high-qu
 
 ![Before and After Comparison](be-af.png)
 *Figure 2: Visual comparison between original low-resolution image and x4 upscaled result.*
-re
 
 ## Features
 
