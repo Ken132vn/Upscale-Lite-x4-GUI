@@ -1,3 +1,7 @@
+# ============================================================
+# AI model by Philip Hofmann (Helaman), licensed under CC-BY-4.0
+# ============================================================
+
 import os
 import sys
 import gc
